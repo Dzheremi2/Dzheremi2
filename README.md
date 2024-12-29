@@ -1,16 +1,25 @@
-## Hi there 👋
+![](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Džeremi&reversal=true&section=footer&animation=twinkling)
 
-<!--
-**Dzheremi2/Dzheremi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+<i>Obsessed by Linux. GTK Python developer.</i>
+</h3>
+<hr>
 
-Here are some ideas to get you started:
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,gtk,linux,obsidian,vscode" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+## Currently working on
+
+### [Chronograph](https://github.com/Dzheremi2/LRCMake-GTK)
+
+<img alt="Flathub Version" src="https://img.shields.io/flathub/v/io.github.dzheremi2.lrcmake-gtk?style=for-the-badge&logo=flathub&color=lightblue">
+
+[flathub-url]: https://flathub.org/apps/io.github.dzheremi2.lrcmake-gtk
+[installs-img]: https://img.shields.io/flathub/downloads/io.github.dzheremi2.lrcmake-gtk?style=for-the-badge&color=gree&logo=flathub
+[![Installs][installs-img]][flathub-url]
+![GitHub License](https://img.shields.io/github/license/Dzheremi2/LRCMake-GTK?style=for-the-badge&color=C25D00)
+
+</div>
