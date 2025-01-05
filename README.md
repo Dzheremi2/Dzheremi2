@@ -13,7 +13,7 @@
 
 ## Currently working on
 
-### [Chronograph](https://github.com/Dzheremi2/LRCMake-GTK)
+### [Chronograph](https://github.com/Dzheremi2/Chronograph)
 
 <img alt="Flathub Version" src="https://img.shields.io/flathub/v/io.github.dzheremi2.lrcmake-gtk?style=for-the-badge&logo=flathub&color=lightblue">
 
