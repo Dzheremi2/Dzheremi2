@@ -1,6 +1,7 @@
-![](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Džeremi&reversal=true&section=footer&animation=twinkling)
-
 <h3 align="center">
+    
+![](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Džeremi&reversal=true&section=footer&animation=twinkling)
+    
 <i>Obsessed by Linux. GTK Python developer.</i>
 </h3>
 <hr>
@@ -12,6 +13,8 @@
 <div align="center">
 
 ## Currently working on
+
+<img alt="Chronograph Icon" src="https://raw.githubusercontent.com/Dzheremi2/Chronograph/26a5f710888aaeaa1fcf6eff071af82fd5120c7c/data/icons/hicolor/scalable/apps/io.github.dzheremi2.lrcmake-gtk.svg" width="100" height="100">
 
 ### [Chronograph](https://github.com/Dzheremi2/Chronograph)
 
