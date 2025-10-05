@@ -14,7 +14,7 @@
 
 ## Currently working on
 
-<img alt="Chronograph Icon" src="https://github.com/Dzheremi2/Chronograph/blob/master/data/icons/hicolor/scalable/apps/io.github.dzheremi2.lrcmake-gtk.svg" width="100" height="100">
+<img alt="Chronograph Icon" src="https://github.com/Dzheremi2/Chronograph/blob/main/data/icons/hicolor/scalable/apps/io.github.dzheremi2.lrcmake-gtk.svg" width="100" height="100">
 
 ### [Chronograph](https://github.com/Dzheremi2/Chronograph)
 
