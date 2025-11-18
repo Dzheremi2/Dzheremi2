@@ -25,7 +25,7 @@
 [![Installs][installs-img]][flathub-url]
 ![GitHub License](https://img.shields.io/github/license/Dzheremi2/LRCMake-GTK?style=for-the-badge&color=C25D00)
 
-<img alt="Lexi Icon" src="https://github.com/Dzheremi2/Lexi/blob/master/data/icons/hicolor/scalable/apps/io.github.dzheremi2.lexi.svg" width="100" height="100">
+<!-- <img alt="Lexi Icon" src="https://github.com/Dzheremi2/Lexi/blob/master/data/icons/hicolor/scalable/apps/io.github.dzheremi2.lexi.svg" width="100" height="100">
 
 ### [Lexi](https://github.com/Dzheremi2/Lexi)
 
@@ -34,6 +34,6 @@
 
 <a href="https://flathub.org/apps/io.github.dzheremi2.lexi"><img alt="Flathub Version" src="https://img.shields.io/flathub/v/io.github.dzheremi2.lexi?style=for-the-badge&logo=flathub&color=lightblue"></a>
 [![Installs][installs-img-lexi]][flathub-url-lexi]
-[![GitHub License](https://img.shields.io/github/license/Dzheremi2/Lexi?style=for-the-badge&color=C25D00)](https://github.com/Dzheremi2/Lexi/blob/master/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/Dzheremi2/Lexi?style=for-the-badge&color=C25D00)](https://github.com/Dzheremi2/Lexi/blob/master/LICENSE) -->
 
 </div>
